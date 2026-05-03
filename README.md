@@ -61,15 +61,6 @@ I work where **geospatial intelligence meets data science** — building dashboa
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-G-Omer&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-G-Omer&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### Connect
 
 <p>
