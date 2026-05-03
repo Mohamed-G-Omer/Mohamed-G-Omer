@@ -1,5 +1,5 @@
 <h1 align="center">Mohamed Gamal Omer</h1>
-<h3 align="center">Geospatial Data Scientist · MSc Applied Data Science Student</h3>
+<h3 align="center">Geospatial Specialist · MSc Applied Data Science Student</h3>
 <p align="center">The Hague, Netherlands</p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ### About
 
-Data professional with **3+ years of experience** turning location-based data into business decisions across telecom, logistics, and FMCG — including geomarketing analysis across 1,000+ sites serving 5M+ customers.
+Data professional with 3+ years of experience turning complex datasets into actionable insights. Eager to apply and grow my skills in machine learning, artificial intelligence, deep learning, and predictive analytics to deliver impactful, data-driven solutions.
 
 Currently pursuing an **MSc in Applied Data Science** at HAN University of Applied Sciences, expanding from GIS into machine learning, deep learning, and predictive analytics.
 
@@ -22,8 +22,8 @@ I work where **geospatial intelligence meets data science** — building dashboa
 
 - Studying **MSc Applied Data Science** at HAN University (Arnhem)
 - Building geospatial web apps with the **MERN stack** and **Leaflet**
-- Sharpening my skills in **deep learning**, **predictive modeling**, and **MLOps**
-- Open to **internships**, **thesis collaborations**, and **data science opportunities**
+- Sharpening my skills in **machine learning**, **predictive modeling**, and **MLOps**
+- Open to **internships**, **thesis collaborations**, **geospatial** , and **data science opportunities**
 
 ---
 
@@ -44,7 +44,7 @@ I work where **geospatial intelligence meets data science** — building dashboa
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![Geoserver](https://img.shields.io/badge/GeoServer-Enabled-green?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 **Databases**
 
