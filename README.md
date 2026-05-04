@@ -44,7 +44,7 @@ I work where **geospatial intelligence meets data science** — building dashboa
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-007AC2?style=for-the-badge&logo=arcgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Geoserver](https://img.shields.io/badge/GeoServer-Enabled-green?style=for-the-badge&logo=openstreetmap&logoColor=white)
+![Geoserver](https://img.shields.io/badge/GeoServer-green?style=for-the-badge&logo=openstreetmap&logoColor=white)
 
 **Databases**
 
