@@ -2,10 +2,6 @@
 <h3 align="center">Geospatial Specialist · MSc Applied Data Science Student</h3>
 <p align="center">The Hague, Netherlands</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-G-Omer&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### About
